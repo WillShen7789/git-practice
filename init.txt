@@ -1,0 +1,10 @@
+git bash
+
+$ git --version
+
+$ git config --global user.name "WillShen7777"
+$ git config --global user.email "willest7777@livemail.tw"
+$ git config --list
+
+$ cd D:/OneDrive/MyWorkSpace/ActionPC/G501/MyProject/vuejs/initGIt
+$ cd D:/OneDrive/MyWorkSpace/ActionPC/G501/MyProject/git-practice
