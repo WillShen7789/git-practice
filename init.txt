@@ -9,3 +9,6 @@ $ git config --list
 $ cd D:/OneDrive/MyWorkSpace/ActionPC/G501/MyProject/git-practice
 
 git config --local user.name "WillShenG501"
+
+C:\Users\ShwnHW\.ssh\id_rsa
+C:\Users\ShwnHW\.ssh\id_rsa.pub
